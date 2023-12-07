@@ -1,1 +1,1 @@
-# NN-Project
+# Neural Networks Project
